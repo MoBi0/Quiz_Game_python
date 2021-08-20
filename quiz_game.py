@@ -73,4 +73,4 @@ print("Super " + name + " du hast es Geschafft")
 
 #Github Link damit die user sich den code angucken können (wenn man das will)
 print("Hier kannst den code von dem Kleinen quiz finden ihr könnt es gernen nach euren beliben anpassen :)")
-print("quiz github Link wenn es einen giebt")
+print("https://github.com/MoBi0/Quiz_Game_for_beginner_python")
